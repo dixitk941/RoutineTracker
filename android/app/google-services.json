@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49387160254",
+    "project_id": "routine-e71a6",
+    "storage_bucket": "routine-e71a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49387160254:android:ffceace7ece2bb14f854ef",
+        "android_client_info": {
+          "package_name": "com.ainor.routine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlOsW_fNW1Hrb7f5KB3Hg9AkwXcRyllfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
